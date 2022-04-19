@@ -1,2 +1,3 @@
 # UCF_HomeWork_7
-Updated portfolio Page
+UCF homework 7: Updated portfolio
+
