@@ -23,5 +23,5 @@ workBtn.addEventListener('click', function(){
 });
 // Event listeners to redirect to project repositories//
 projOne.addEventListener('click', function(){
-    window.location.href="https://github.com/Droessling94/IDunno";
+    window.location.href="https://droessling94.github.io/IDunno/";
 });
